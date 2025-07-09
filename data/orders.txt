@@ -1,0 +1,5 @@
+Order Type, Customer ID, Amount
+regular, C123A, 4
+regular, C223B, 1
+special, C112A, 1
+regular, C123A, 1

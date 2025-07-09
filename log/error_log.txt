@@ -1,0 +1,218 @@
+[13-Oct-2024 21:15:40 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 21:15:40 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:15:40 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:15:40 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:15:40 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:15:40 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:15:40 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:15:40 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:15:44 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 21:15:44 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:15:44 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:15:44 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:15:44 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:15:44 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:15:44 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:15:44 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:15:52 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 21:15:52 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:15:52 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:15:52 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\nregular, ID, 34') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:15:52 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:15:52 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:15:52 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:15:52 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\nregular, ID, 34') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:16:01 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 21:16:01 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:16:01 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:16:01 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\nregular, ID, 34\nregular, , ') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:16:01 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:16:01 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:16:01 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:16:01 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\nregular, ID, 34\nregular, , ') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:16:06 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 21:16:06 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:16:06 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:16:06 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\nregular, ID, 34\nregular, , \nregular, , ') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:16:06 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:16:06 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:16:06 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:16:06 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\nregular, ID, 34\nregular, , \nregular, , ') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:16:12 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 21:16:12 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:16:12 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:16:12 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\nregular, ID, 34\nregular, , \nregular, , \nregular, , ') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:16:12 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:16:12 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:16:12 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:16:12 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\nregular, ID, 34\nregular, , \nregular, , \nregular, , ') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:16:19 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 21:16:19 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:16:19 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:16:19 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\nregular, ID, 34\nregular, , \nregular, , \nregular, , ') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:16:19 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:16:19 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:16:19 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:16:19 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\nregular, ID, 34\nregular, , \nregular, , \nregular, , ') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:16:47 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 21:16:47 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:16:47 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:16:47 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:16:47 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:16:47 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:16:47 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:16:47 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:16:47 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 21:16:47 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:16:47 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:16:47 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:16:47 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:16:47 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:16:47 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:16:47 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:18:16 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 21:18:16 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:18:16 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:18:16 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:18:16 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:18:16 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:18:16 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:18:16 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:18:16 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 21:18:16 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:18:16 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:18:16 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:18:16 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:18:16 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:18:16 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:18:16 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:35:24 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 21:35:24 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:35:24 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:35:24 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:35:24 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:35:24 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:35:24 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:35:24 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:35:24 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 21:35:24 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:35:24 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:35:24 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:35:24 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:35:24 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:35:24 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:35:24 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:39:44 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 21:39:44 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:39:44 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:39:44 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:39:44 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:39:44 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:39:44 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:39:44 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:39:44 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 21:39:44 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:39:44 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:39:44 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:39:44 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:39:44 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:39:44 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:39:44 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:39:45 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 21:39:45 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:39:45 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:39:45 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:39:45 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:39:45 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:39:45 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:39:45 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:39:45 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 21:39:45 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:39:45 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:39:45 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:39:45 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:39:45 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:39:45 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:39:45 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:41:20 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:41:20 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:41:20 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:41:20 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n1,\n2,\n3,\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:41:20 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:41:20 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:41:20 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:41:20 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n1,\n2,\n3,\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:41:20 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:41:20 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:41:20 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:41:20 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n1,\n2,\n3,\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:41:20 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 21:41:20 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:41:20 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:41:20 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n1,\n2,\n3,\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 21:41:20 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 21:41:20 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 21:41:20 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 21:41:20 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n1,\n2,\n3,\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 22:24:10 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 22:24:10 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 22:24:10 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 22:24:10 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n1,ID1,1\n2,C231A, 7\nregular, , \nregular, , \nregular, , \nregular, , \n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 22:24:10 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 22:24:10 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 22:24:10 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 22:24:10 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n1,ID1,1\n2,C231A, 7\nregular, , \nregular, , \nregular, , \nregular, , \n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 22:24:31 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 22:24:31 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 22:24:31 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 22:24:31 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n1,ID1,1\n2,C231A, 7\nregular, , \nregular, , \nregular, , \nregular, , \n\nregular, , ') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 22:24:31 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 22:24:31 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 22:24:31 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 22:24:31 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\nregular, C111B, 10\nspecial, C000A, 12\nregular, C231A, 7\n1,ID1,1\n2,C231A, 7\nregular, , \nregular, , \nregular, , \nregular, , \n\nregular, , ') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 22:56:03 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 22:56:03 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 22:56:03 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 22:56:03 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\n\nregular, , ') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 22:56:03 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 22:56:03 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 22:56:03 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 22:56:03 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\n\nregular, , ') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 22:57:58 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 22:57:58 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 22:57:58 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 22:57:58 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\n\nregular, , ') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 22:57:58 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 22:57:58 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 22:57:58 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 22:57:58 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\n\nregular, , ') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 22:58:09 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 22:58:09 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 22:58:09 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 22:58:09 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 22:58:09 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 22:58:09 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 22:58:09 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 22:58:09 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 22:58:45 America/Vancouver] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 46
+[13-Oct-2024 22:58:45 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 22:58:45 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 22:58:45 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 22:58:45 America/Vancouver] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\material upload\Week 07\demo\inc\OrderData.class.php on line 47
+[13-Oct-2024 22:58:45 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 22:58:45 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 22:58:45 America/Vancouver] PHP   2. OrderData->parseRead($fileContent = 'Order Type, Customer ID, Amount\nregular, C123A, 4\nregular, C223B, 1\nspecial, C112A, 1\n') C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:50
+[13-Oct-2024 23:52:47 America/Vancouver] PHP Warning:  Array to string conversion in C:\xampp\htdocs\material upload\Week 07\demo\inc\Page.class.php on line 150
+[13-Oct-2024 23:52:47 America/Vancouver] PHP Stack trace:
+[13-Oct-2024 23:52:47 America/Vancouver] PHP   1. {main}() C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:0
+[13-Oct-2024 23:52:47 America/Vancouver] PHP   2. Page::main($notifications = [0 => [0 => 'Couldn\'t open file 123']], $data = []) C:\xampp\htdocs\material upload\Week 07\demo\order_page.php:53
+[13-Oct-2024 23:52:47 America/Vancouver] PHP   3. Page::putNotification($notifications = [0 => [0 => 'Couldn\'t open file 123']]) C:\xampp\htdocs\material upload\Week 07\demo\inc\Page.class.php:110
+[16-Jun-2025 16:54:57 America/Vancouver] PHP Fatal error:  Uncaught ValueError: fread(): Argument #2 ($length) must be greater than 0 in C:\xampp\htdocs\demo\20250616_PHP_W7_File\inc\FileUtility.class.php:39
+Stack trace:
+#0 C:\xampp\htdocs\demo\20250616_PHP_W7_File\inc\FileUtility.class.php(39): fread(Resource id #10, 0)
+#1 C:\xampp\htdocs\demo\20250616_PHP_W7_File\order_page.php(49): FileUtility::read()
+#2 {main}
+  thrown in C:\xampp\htdocs\demo\20250616_PHP_W7_File\inc\FileUtility.class.php on line 39
+[17-Jun-2025 17:10:45 America/Vancouver] PHP Warning:  Array to string conversion in C:\xampp\htdocs\demo\20250616_PHP_W7_File\inc\Page.class.php on line 154
+[17-Jun-2025 17:11:04 America/Vancouver] PHP Warning:  Array to string conversion in C:\xampp\htdocs\demo\20250616_PHP_W7_File\inc\Page.class.php on line 154
+[17-Jun-2025 17:11:22 America/Vancouver] PHP Warning:  Array to string conversion in C:\xampp\htdocs\demo\20250616_PHP_W7_File\inc\Page.class.php on line 154
