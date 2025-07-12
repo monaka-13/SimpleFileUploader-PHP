@@ -58,8 +58,7 @@ class Page
           <input type="text" name="amount" id="amount">
         </div>
         <div>
-          <input type="hidden" name="fileName">
-          <!-- <input type="hidden" name="fileName" value="<?= FileUtility::$currentFile ?>"> -->
+          <input type="hidden" name="fileName" value="<?= FileUtility::$currentFile ?>">
           <input type="submit" name="submit" value="Submit">
         </div>
       </form>
@@ -81,7 +80,6 @@ class Page
 
   static function main($notifications, $data)
   { ?>
-    <!-- Start the page's show data form -->
     <section class="main">
       <?php
       if (!empty($notifications))
@@ -104,7 +102,7 @@ class Page
           foreach ($data as $orderItem) {
             echo "<tr>";
             echo "\n\t<td>{$orderItem->type}</td>";
-            echo "\n\t<td>{$orderItem->custID}</td>";
+            echo "\n\t<td>{$orderItem->customerId}</td>";
             echo "\n\t<td>{$orderItem->amount}</td>";
             echo "</tr>";
           }
@@ -118,7 +116,6 @@ class Page
 
   static function putNotification($notifications)
   { ?>
-    <!-- Start the main article's notification -->
     <div class="error" style="display: block;">
       <h2>Notification</h2>
       <ul>
