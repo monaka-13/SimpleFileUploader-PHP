@@ -87,9 +87,7 @@ class Page
 
       if (!empty($data)) {
       ?>
-        <!-- the table -->
-        <h2>Current Data from</h2>
-        <!-- <h2>Current Data from <?= FileUtility::$currentFile; ?></h2> -->
+        <h2>Current Data from <?= FileUtility::$currentFile; ?></h2>
         <table>
           <thead>
             <tr>

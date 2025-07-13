@@ -1,3 +1,4 @@
 <?php
-define("DATA", "data/orders.txt");
+define("REPOSITORY", "data/");
+define("DATA", REPOSITORY . "orders.txt");
 ?>

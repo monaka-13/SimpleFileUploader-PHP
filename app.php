@@ -10,7 +10,10 @@ Page::header();
 
 if (!empty($_POST)) {
   if (isset($_POST["upload"])) {
-    echo "upload";
+    $fileName = FileUtility::upload();
+    if (!empty($fileName)) {
+      FileUtility::$currentFile = $fileName;
+    }
   } else { // add
     FileUtility::$currentFile = $_POST["fileName"];
     $orderData->parseWrite();
@@ -25,4 +28,5 @@ $orderData->parseRead(FileUtility::read());
 
 Page::main(FileUtility::$notifications, $orderData->orders);
 Page::entryForm();
+Page::uploadForm();
 Page::footer();

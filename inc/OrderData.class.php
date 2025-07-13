@@ -20,7 +20,6 @@ class OrderData
           $order->setType($type);
           break;
       }
-      print_r($order);
       $this->orders[] = $order;
     }
   }
