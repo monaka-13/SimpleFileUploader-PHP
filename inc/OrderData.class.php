@@ -24,4 +24,12 @@ class OrderData
       $this->orders[] = $order;
     }
   }
+
+  function parseWrite()
+  {
+    $type = $_POST["type"];
+    $customerId = $_POST["customerId"];
+    $amount = $_POST["amount"];
+    $this->orderString = "\n" . $type . ", " . $customerId . ", " . $amount;
+  }
 }

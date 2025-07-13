@@ -4,12 +4,19 @@ require_once('inc/OrderData.class.php');
 require_once('inc/Order.class.php');
 require_once('inc/FileUtility.class.php');
 require_once('inc/config.inc.php');
-$orderData=new OrderData();
+$orderData = new OrderData();
 FileUtility::initialize(DATA);
 Page::header();
 
-if(isset($_POST["submit"])){
-  echo "OK";
+if (!empty($_POST)) {
+  if (isset($_POST["upload"])) {
+    echo "upload";
+  } else { // add
+    FileUtility::$currentFile = $_POST["fileName"];
+    $orderData->parseWrite();
+    FileUtility::write($orderData->orderString);
+  }
+  $notifications = FileUtility::$notifications;
 }
 
 

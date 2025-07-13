@@ -46,10 +46,10 @@ class Page
           </select>
         </div>
         <div>
-          <label for="custID">
+          <label for="customerId">
             Customer ID
           </label>
-          <input type="text" name="custID" id="custID">
+          <input type="text" name="customerId" id="customerId">
         </div>
         <div>
           <label for="amount">
